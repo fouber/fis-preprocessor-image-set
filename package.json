@@ -4,7 +4,7 @@
     "version" : "0.0.1",
     "author" : "FIS Team <fis@baidu.com>",
     "homepage" : "http://fis.baidu.com/",
-    "keywords": [ "fis" ],
+    "keywords": [ "fis", "image-set" ],
     "main" : "index.js",
     "repository": {
         "type": "git",
